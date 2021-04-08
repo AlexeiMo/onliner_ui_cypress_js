@@ -1,0 +1,14 @@
+{
+  "name": "onliner_ui_cypress_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo hi"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.0.1"
+  }
+}
